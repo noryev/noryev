@@ -6,5 +6,5 @@
 | Company | Galaxyx LLC |
 | GitHub | [galaxyxone] |
 | **Email** | llentz@galaxyx.io |
-| Website | [https://www.galaxyx.io] |
+| Website | https://www.galaxyx.io |
 -----

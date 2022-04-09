@@ -1,9 +1,8 @@
 # Hi there, this is some 🔑 Information about me 
 
-| _Info_ | _Ans_ |
+| _Name_ | _Logan_ |
 | ----- | ----- |
-| **Name** | Logan |
-| Company | Galaxyx LLC |
+| **Company** | GalaxyX |
 | GitHub | [galaxyxone] |
 | **Email** | llentz@galaxyx.io |
 | Website | [galaxyx.io] |

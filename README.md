@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there, this is some 🔑 Information about me 
 
-<!--
-**noryev/noryev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| _Important thing_ | _Explanation of that thing_ |
+| ----- | ----- |
+| **Name** | Logan |
+| Company | Galaxyx LLC |
+| GitHub | [galaxyxone] |
+| **Email** | llentz@galaxyx.io |
+| Website | [galaxyx.io] |
+-----
+[galaxyx.io]:(https://galaxyx.io)
+[galaxyxone]:(https://github.com/galaxyxone)

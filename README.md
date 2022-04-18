@@ -8,3 +8,4 @@
 | **Email** | llentz@galaxyx.io |
 | Website | https://www.galaxyx.io |
 -----
+[galaxyxone] (https://www.github.com/galaxyxone)

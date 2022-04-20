@@ -1,4 +1,4 @@
-# Hi there, this is some 🔑 Information about me 
+# Hi there, this is some information about me
 
 | _Important thing_ | _Explanation of that thing_ |
 | ----- | ----- |

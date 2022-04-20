@@ -3,7 +3,7 @@
 | _Contact_ | _Information_ |
 | ----- | ----- |
 | **Name** | Logan |
-| Company | Galaxyx LLC | 
+| Company | Galaxyx | 
 | GitHub | [GalaxyXOne](https://www.github.com/galaxyxone)
 | **Email** | llentz@galaxyx.io |
 | Website | https://www.galaxyx.io |

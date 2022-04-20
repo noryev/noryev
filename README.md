@@ -1,6 +1,5 @@
-# Hi there, this is some information about me
+# How to contact me- 
 
-| _Name_ | _Logan_ |
 | ----- | ----- |
 | **Name** | Logan |
 | Company | Galaxyx LLC | 

@@ -1,5 +1,6 @@
-# How to contact me- 
+# How to contact me-
 
+| _Contact_ | _Information_ |
 | ----- | ----- |
 | **Name** | Logan |
 | Company | Galaxyx LLC | 

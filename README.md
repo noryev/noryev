@@ -1,6 +1,6 @@
 # Hi there, this is some information about me
 
-| _Important thing_ | _Explanation of that thing_ |
+| _Name_ | _Logan_ |
 | ----- | ----- |
 | **Name** | Logan |
 | Company | Galaxyx LLC | 

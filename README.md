@@ -5,6 +5,6 @@
 | **Name** | Logan |
 | Company | GalaxyX | 
 | GitHub | [GalaxyXOne](https://www.github.com/galaxyxone)
-| **Email** | llentz@galaxyx.io |
+| **Email** | loganl@galaxyx.io |
 | Website | https://www.galaxyx.io |
 -----

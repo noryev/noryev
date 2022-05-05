@@ -2,7 +2,7 @@
 
 | _Contact_ | _Information_ |
 | ----- | ----- |
-| **Name** | Logan |
+| **Name** | Logan Lentz |
 | Company | GalaxyX | 
 | GitHub | [GalaxyXOne](https://www.github.com/galaxyxone)
 | **Email** | loganl@galaxyx.io |

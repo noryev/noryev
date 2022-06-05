@@ -6,5 +6,5 @@
 | Company | GalaxyX | 
 | GitHub | [GalaxyXOne](https://www.github.com/galaxyxone)
 | **Email** | loganl@galaxyx.io |
-| Website | https://www.galaxyx.io |
+| Website | https://galaxyx.io |
 -----

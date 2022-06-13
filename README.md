@@ -4,7 +4,7 @@
 | ----- | ----- |
 | **Name** | Logan Lentz |
 | Company | Noryev | 
-| GitHub | [GalaxyXOne](https://www.github.com/galaxyxone)
+| GitHub | [Noryev](https://www.github.com/noryev)
 | **Email** | loganl@galaxyx.io |
 | Website | https://galaxyx.io |
 -----

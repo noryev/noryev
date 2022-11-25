@@ -6,5 +6,5 @@
 | Company | GalaxyX | 
 | GitHub | [Noryev](https://www.github.com/noryev)
 | **Email** | loganl@galaxyx.io |
-| Website | https://galaxyx.io |
+| Website | http://galaxyx.io |
 -----
